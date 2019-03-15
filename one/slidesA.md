@@ -1,7 +1,9 @@
 <!SLIDE title-slide>
 .notes first slide
 
-# First Slide #
+# Hackathon Team 3 #
+
+Is this thing working???
 
 <!SLIDE bullets incremental transition=fade>
 .notes something something something something something something something something something something something something something something something dark side
