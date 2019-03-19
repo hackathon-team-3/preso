@@ -1,4 +1,5 @@
 <!SLIDE title-slide>
+# First Slide
 
 # Hackathon Team 3 
 
@@ -31,7 +32,7 @@ The training solution will have a frontend student sign-up and will integrate wi
 <!SLIDE bullets incremental transition=fade>
 .notes something something something something something something something something something something something something something something something dark side
 
-# Second Slide #
+# Second Slide 
 
 ![vault](vault.png)
 
