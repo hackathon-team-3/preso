@@ -39,6 +39,11 @@ The training solution will have a frontend student sign-up and will integrate wi
 <!SLIDE bullets>
 # Student Create Secret
 
+Andrew->China: Says Hello
+Note right of China: China thinks\nabout it
+China-->Andrew: How are you?
+Andrew->>China: I am good thanks!
+
 * Sometimes bullet items
   * Have sublists
   * And some sublist items
