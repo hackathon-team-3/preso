@@ -40,54 +40,5 @@ The training solution will have a frontend student sign-up and will integrate wi
 # Student Create Secret
 
 
-st=>start: Start:>http://www.google.com[blank]
-e=>end:>http://www.google.com
-op1=>operation: My Operation
-sub1=>subroutine: My Subroutine
-cond=>condition: Yes
-or No?:>http://www.google.com
-io=>inputoutput: catch something...
-para=>parallel: parallel tasks
-
-st->op1->cond
-cond(yes)->io->e
-cond(no)->para
-para(path1, bottom)->sub1(right)->op1
-para(path2, top)->op1
-
-Andrew->China: Says Hello
-Note right of China: China thinks\nabout it
-China-->Andrew: How are you?
-Andrew->>China: I am good thanks!
-
-* Sometimes bullet items
-  * Have sublists
-  * And some sublist items
-    * Have some of their own
-    * And so on
-* But top-level "bullet items" have no bullets
-  * isn't that odd?
-
-Also, sometimes you just want to have plain text sitting in the middle
-of the screen. The quick brown fox jumps over the lazy dog.
-
-<!SLIDE bullets incremental transition=fade>
-# Sub bullets
-
-* something
-    * something else
-* a third thing
-    * and some more
-    * inconsequential things
-      * to fill up a sub bullet list
-      * of things
-* a fourth thing
-* a fifth thing
-
 <!SLIDE bullets>
 # Third Slide
-
-!SLIDE center transition=scrollUp
-.notes another dark side
-
-![octocat](octocat.png)
