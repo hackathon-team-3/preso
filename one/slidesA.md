@@ -45,8 +45,7 @@ The training solution will have a frontend student sign-up and will integrate wi
 !SLIDE commandline incremental
 
 	$ git commit -am 'incremental bullet points working'
-	[master ac5fd8a] incremental bullet points working
-	 2 files changed, 32 insertions(+), 5 deletions(-)
+	Success! Enabled the database secrets engine at: database/
    
 some output
 
