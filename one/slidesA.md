@@ -30,11 +30,11 @@ The training solution will have a frontend student sign-up and will integrate wi
 
 ![vault](vault.png)
 
-## Agenda
+# Agenda
 
-### Teach you Vault!
-### You will learn it!
-### You will like it!
+## * Teach you Vault!
+## * You will learn it!
+## * You will like it!
 
 <!SLIDE bullets>
 # Student Create Secret
