@@ -5,6 +5,8 @@
 
 Is this thing working???
 
+![vault](vault.png)
+
 <!SLIDE bullets incremental transition=fade>
 .notes something something something something something something something something something something something something something something something dark side
 
