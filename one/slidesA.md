@@ -1,5 +1,4 @@
 <!SLIDE title-slide>
-# First Slide
 
 # Hackathon Team 3 
 
@@ -32,20 +31,18 @@ The training solution will have a frontend student sign-up and will integrate wi
 <!SLIDE bullets incremental transition=fade>
 .notes something something something something something something something something something something something something something something something dark side
 
-# Second Slide 
+# Super Official Vault Training
 
 ![vault](vault.png)
 
-## Official Vault Training
+## Agenda
 
-* something
-* something else
-* a third thing
-* a fourth thing
-* a fifth thing
+* Teach you Vault!
+* You will learn it!
+* You will like it!
 
 <!SLIDE bullets>
-# Third Slide
+# Student Create Secret
 
 * Sometimes bullet items
   * Have sublists
