@@ -30,20 +30,6 @@ The training solution will have a frontend student sign-up and will integrate wi
 
 ![vault](vault.png)
 
-----
--	Website: https://www.vaultproject.io
--	GitHub repository: https://github.com/hashicorp/vault
--	IRC: `#vault-tool` on Freenode
--	Announcement list: [Google Groups](https://groups.google.com/group/hashicorp-announce)
--	Discussion list: [Google Groups](https://groups.google.com/group/vault-tool)
-
-<img width="300" alt="Vault Logo" src="https://cloud.githubusercontent.com/assets/416727/24112835/03b57de4-0d58-11e7-81f5-9056cac5b427.png">
-
-----
-# Vault-Guides
-
-This repository provides the technical content to support the [Vault Guides](https://www.vaultproject.io/guides/index.html) site.
-
 ## Agenda
 
 ## * Teach you Vault!
