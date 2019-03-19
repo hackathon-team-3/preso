@@ -39,6 +39,28 @@ The training solution will have a frontend student sign-up and will integrate wi
 <!SLIDE bullets>
 # Student Create Secret
 
+# Vault Postgres Dynamic Secret
+some output
+
+$ command over \
+  several lines
+some more output
+over several lines
+
+$ no output command with \( backslashes \)
+$ command
+output with
+a
+
+blank line
+
+vault secrets enable database
+vault write database/config/postgres \
+plugin_name=postgresql-database-plugin \
+allowed_roles=readonly \
+  connection_url="user=roger password=password123 \
+  host=localhost port=5432 dbname=supercoolapp sslmode=disable"
+
 
 <!SLIDE bullets>
 # Third Slide
