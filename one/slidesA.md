@@ -33,10 +33,12 @@ The training solution will have a frontend student sign-up and will integrate wi
 
 ###```Ingress Controller - Nginx```
 
+
 ## Workflow
 ### * Student Sign-up Sheet
 ### * Creates a list that feeds Terraform
 ### * Terraform provisions Showoff Pod and Student Pod via Helm
+
 
 ## HashiStack Products 
 ### * Terraform 11.3 ENT (intended to use 0.12)
@@ -76,5 +78,7 @@ This is a presenter note example. I have no idea what I'm doing
 ## Nice to Haves:
 
 ### Consul Connect from Wetty Pod to VM
+
 ### Front-end - possibly Google Suite Sign-in Sheet with API integration to Terraform
+
 ### Ambassdor Ingress Proxy for Side-car Integration
