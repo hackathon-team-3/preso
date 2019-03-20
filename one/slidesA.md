@@ -57,13 +57,6 @@ This is a presenter note example. I have no idea what I'm doing
 <!SLIDE bullets>
 # Third Slide
 
-@@@ javascript
-
-{
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-}
-!SLIDE execute
+sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
