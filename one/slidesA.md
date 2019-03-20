@@ -33,15 +33,15 @@ The training solution will have a frontend student sign-up and will integrate wi
 	* Vault Container
 
 ## Workflow
-### * Student Sign-up Sheet
-### * Creates a list that feeds Terraform
-### * Terraform provisions Showoff Pod and Student Pod via Helm
+ * Student Sign-up Sheet
+ * Creates a list that feeds Terraform
+ * Terraform provisions Showoff Pod and Student Pod via Helm
+
 
 ## HashiStack Products Used
 ### * Terraform 11.3 ENT
 ### * Vault Container ENT
 ### * Consul Helm (Health Checks on Student Pods)
-
 
 <!SLIDE >
 # Super Official Vault Training
