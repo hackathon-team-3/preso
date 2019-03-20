@@ -73,8 +73,8 @@ This is a presenter note example. I have no idea what I'm doing
 ~~~ENDSECTION~~~
 
 <!SLIDE >
-# Nice to Haves:
+## Nice to Haves:
 
-## Consul Connect from Wetty Pod to VM
-## Front-end - possibly Google Suite Sign-in Sheet with API integration to Terraform
-## Ambassdor Ingress Proxy for Side-car Integration
+### Consul Connect from Wetty Pod to VM
+### Front-end - possibly Google Suite Sign-in Sheet with API integration to Terraform
+### Ambassdor Ingress Proxy for Side-car Integration
