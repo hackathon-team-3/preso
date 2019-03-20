@@ -60,3 +60,11 @@ This is a presenter note example. I have no idea what I'm doing
 sequenceDiagram
     Alice->>John: Hello John, how are you?
     John-->>Alice: Great!
+
+
+# Executable JavaScript #
+
+	@@@ javascript
+	result = 3 + 3;
+
+!SLIDE execute
