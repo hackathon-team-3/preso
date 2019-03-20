@@ -14,7 +14,7 @@
 
 ```Service Configuration and Service Discovery: Consul```
 
-```Application: Front-end + Showoff (OSS application) + Wetty + Vault```
+```Application Components: Front-end + Showoff (OSS application) + Wetty```
 
 ### Business Case
 
