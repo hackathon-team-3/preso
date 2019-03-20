@@ -26,13 +26,9 @@ The training solution will have a frontend student sign-up and will integrate wi
 
 <!SLIDE bullets incremental transition=fade>
 # Architecutre
-* Sometimes bullet items
-  * Have sublists
-  * And some sublist items
-    * Have some of their own
-    * And so on
-* But top-level "bullet items" have no bullets
-  * isn't that odd?
+## Components
+### * Student Sign-up Sheet
+
 
 <!SLIDE >
 # Super Official Vault Training
