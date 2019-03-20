@@ -28,9 +28,11 @@ The training solution will have a frontend student sign-up and will integrate wi
 # Architecutre
 ## Components
 Showoff Pod
+
 Student Pod
-	Wetty Container
-	Vault Container
+
+```Wetty Container```
+```Vault Container```
 
 ## Workflow
  * Student Sign-up Sheet
