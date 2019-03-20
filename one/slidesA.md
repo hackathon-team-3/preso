@@ -2,7 +2,7 @@
 
 # Hackathon Team 3 
 
-## Classroom Training Deployments
+## Classroom Training Deployments                  ![dogfood](eatingourdogfoode.png)
 
 ### Team Members
 
