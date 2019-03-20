@@ -27,21 +27,18 @@ The training solution will have a frontend student sign-up and will integrate wi
 <!SLIDE bullets incremental transition=fade>
 # Architecutre
 ## Components
-Showoff Pod
-
-Student Pod
-
-```Wetty Container```
-```Vault Container```
+###Showoff Pod
+###Student Pod
+### * Wetty Container
+### * Vault Container
 
 ## Workflow
- * Student Sign-up Sheet
- * Creates a list that feeds Terraform
- * Terraform provisions Showoff Pod and Student Pod via Helm
-
+### * Student Sign-up Sheet
+### * Creates a list that feeds Terraform
+### * Terraform provisions Showoff Pod and Student Pod via Helm
 
 ## HashiStack Products Used
-### * Terraform 11.3 ENT
+### * Terraform 11.3 ENT (intended to use 0.12)
 ### * Vault Container ENT
 ### * Consul Helm (Health Checks on Student Pods)
 
@@ -74,24 +71,3 @@ Student Pod
 This is a presenter note example. I have no idea what I'm doing
 ~~~ENDSECTION~~~
 
-<!SLIDE bullets>
-# Third Slide
-
-@@@ render-diagram
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="mermaid.min.css">
-</head>
-<body>
-  <div class="mermaid">
-  graph LR
-      A --- B
-      B-->C[fa:fa-ban forbidden]
-      B-->D(fa:fa-spinner);
-  </div>
-  <script src="mermaid.min.js"></script>
-  <script>mermaid.initialize({startOnLoad:true});</script>
-</body>
-</html>
