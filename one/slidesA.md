@@ -58,30 +58,20 @@ This is a presenter note example. I have no idea what I'm doing
 # Third Slide
 
 @@@ render-diagram
-	sequenceDiagram
-    		participant Alice
-    		participant Bob
-    		Alice->John: Hello John, how are you?
-    		loop Healthcheck
-        	John->John: Fight against hypochondria
-    	end
-   		Note right of John: Rational thoughts <br/>prevail...
-    		John-->Alice: Great!
-    		John->Bob: How about you?
-    		Bob-->John: Jolly good!
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="mermaid.min.css">
 </head>
 <body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
+  <div class="mermaid">
+  graph LR
+      A --- B
+      B-->C[fa:fa-ban forbidden]
+      B-->D(fa:fa-spinner);
+  </div>
+  <script src="mermaid.min.js"></script>
+  <script>mermaid.initialize({startOnLoad:true});</script>
 </body>
 </html>
