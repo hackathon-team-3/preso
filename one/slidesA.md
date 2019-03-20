@@ -36,9 +36,7 @@ The training solution will have a frontend student sign-up and will integrate wi
 ## * You will learn it!
 ## * You will like it!
 
-<!SLIDE bullets>
-
-# Vault Postgres Dynamic Secret
+## Vault Postgres Dynamic Secret
 
 !SLIDE commandline incremental
 
