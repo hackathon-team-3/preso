@@ -36,9 +36,8 @@ The training solution will have a frontend student sign-up and will integrate wi
 ## * You will learn it!
 ## * You will like it!
 
-## Vault Postgres Dynamic Secret
-
 !SLIDE commandline incremental
+## Vault Dyanamic Secret Example
 
 	$ vault secrets enable database
 	Success! Enabled the database secrets engine at: database/
