@@ -4,6 +4,8 @@
 
 ## Classroom Training Deployments
 
+![diagram] (eatingourdogfood.gif)_
+
 ### Team Members
 
 `John Dohoney, Tyler Walker, Gonzalo Lopez, Roger Chao`
