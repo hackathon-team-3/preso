@@ -27,10 +27,10 @@ The training solution will have a frontend student sign-up and will integrate wi
 <!SLIDE bullets incremental transition=fade>
 # Architecutre
 ## Components
-### * Showoff Pod
-### * Student Pod
-	* Wetty Container
-	* Vault Container
+Showoff Pod
+Student Pod
+	Wetty Container
+	Vault Container
 
 ## Workflow
  * Student Sign-up Sheet
