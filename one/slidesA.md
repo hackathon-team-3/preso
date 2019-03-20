@@ -75,10 +75,10 @@ This is a presenter note example. I have no idea what I'm doing
 ~~~ENDSECTION~~~
 
 <!SLIDE >
-## Nice to Haves:
+# Nice to Haves:
 
-### * Consul Connect from Wetty Pod to VM
+## * Consul Connect from Wetty Pod to VM
 
-### * Front-end with API integration to Terraform
+## * Front-end with API integration to Terraform
 
-### * Ambassdor Ingress leveraging Consul Connect Integration
+## * Ambassdor Ingress leveraging Consul Connect Integration
