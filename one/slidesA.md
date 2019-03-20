@@ -49,6 +49,10 @@ This is a presenter note example. I have no idea what I'm doing or what I'm sayi
 ### * Vault Container ENT
 ### * Consul Helm (Health Checks on Student Pods)
 
+# Super Diagram
+
+![diagram](diagram.png)
+
 <!SLIDE >
 # Super Official Vault Training
 
@@ -88,6 +92,6 @@ This is a presenter note example. I have no idea what I'm doing
 
 ### * Ambassador Ingress leveraging Consul Connect Integration
 
-### * Finish automating entire deployment
+### * Finish automating entire deployment with TF 0.12
 
 
