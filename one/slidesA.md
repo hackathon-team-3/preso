@@ -49,6 +49,10 @@ The training solution will have a frontend student sign-up and will integrate wi
 	$ connection_url="user=roger password=password123 \
 	$ host=localhost port=5432 dbname=supercoolapp sslmode=disable"
 	Success! 
+	
+~~~SECTION:notes~~~
+This is a presenter note example. I have no idea what I'm doing
+~~~ENDSECTION~~~
 
 <!SLIDE bullets>
 # Third Slide
