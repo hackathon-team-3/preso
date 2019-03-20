@@ -72,3 +72,9 @@ The training solution will have a frontend student sign-up and will integrate wi
 This is a presenter note example. I have no idea what I'm doing
 ~~~ENDSECTION~~~
 
+<!SLIDE >
+# Things to Add
+
+## Consul Connect from Wetty Pod to VM
+## Front-end - possibly Google Suite Sign-in Sheet with API integration to Terraform
+## Ambassdor Ingress Proxy for Side-car Integration
