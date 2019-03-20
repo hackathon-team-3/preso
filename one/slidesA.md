@@ -84,6 +84,6 @@ This is a presenter note example. I have no idea what I'm doing
 
 ### * Front-end with API integration to Terraform
 
-### * Consul Connect from Wetty Pod to VM
-
 ### * Ambassdor Ingress leveraging Consul Connect Integration
+
+### * Consul Connect from Wetty Pod to VM
