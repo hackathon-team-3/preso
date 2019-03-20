@@ -49,6 +49,7 @@ This is a presenter note example. I have no idea what I'm doing or what I'm sayi
 ### * Vault Container ENT
 ### * Consul Helm (Health Checks on Student Pods)
 
+<!SLIDE >
 # Super Diagram
 
 ![diagram](diagram.png)
