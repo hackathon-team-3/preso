@@ -27,13 +27,13 @@ The training solution will have a frontend student sign-up and will integrate wi
 <!SLIDE bullets incremental transition=fade>
 # Architecture
 ## Components
-###Showoff Pod
+###```Showoff Pod```
 
-###Student Pod
+###```Student Pod```
 ### * Wetty Container
 ### * Vault Container
 
-###Ingress Controller
+###```Ingress Controller```
 ### * Nginx
 
 
