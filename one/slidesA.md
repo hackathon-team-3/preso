@@ -25,6 +25,14 @@ Team 3 plans to build a classroom training experience that enables teacher to re
 The training solution will have a frontend student sign-up and will integrate with Terraform to provision the classroom. This will include the training application itself, which will  be running on K8s and backed by a repo which will serve the content for the class. Additionally, wetty containers to forward SSH sessions via browser to VMs that will have the needed tooling for student exercises. All of the K8s services will be registered with Consul and will run health checks across the class environment.
 
 <!SLIDE bullets incremental transition=fade>
+# Architecutre
+* Sometimes bullet items
+  * Have sublists
+  * And some sublist items
+    * Have some of their own
+    * And so on
+* But top-level "bullet items" have no bullets
+  * isn't that odd?
 
 # Super Official Vault Training
 
