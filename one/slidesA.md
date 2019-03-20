@@ -66,6 +66,17 @@ sequenceDiagram
 
     @@@ javascript
 
+<script>
+// bind to custom event
+$(".custom_and_unique_class").bind("showoff:show", function (event) {
+  // animate the h1
+  var h1 = $(event.target).find("h1");
+  h1.delay(500)
+    .slideUp(300, function () { $(this).css({textDecoration: "line-through"}); })
+    .slideDown(300);
+});
+</script>
+
 
 
 !SLIDE execute
