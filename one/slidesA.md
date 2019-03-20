@@ -81,8 +81,9 @@ This is a presenter note example. I have no idea what I'm doing
 <!SLIDE >
 # Nice to Haves:
 
-## * Consul Connect from Wetty Pod to VM
 
-## * Front-end with API integration to Terraform
+### * Front-end with API integration to Terraform
 
-## * Ambassdor Ingress leveraging Consul Connect Integration
+### * Consul Connect from Wetty Pod to VM
+
+### * Ambassdor Ingress leveraging Consul Connect Integration
