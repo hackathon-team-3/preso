@@ -29,13 +29,9 @@ The training solution will have a frontend student sign-up and will integrate wi
 ## Components
 ###```Showoff Pod```
 
-###```Student Pod```
-### * Wetty Container
-### * Vault Container
+###```Student Pod - Wetty Container & Vault Container```
 
-###```Ingress Controller```
-### * Nginx
-
+###```Ingress Controller - Nginx```
 
 ## Workflow
 ### * Student Sign-up Sheet
