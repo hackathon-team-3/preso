@@ -64,7 +64,7 @@ sequenceDiagram
 
 # Executable JavaScript #
 
-	@@@ javascript
+    @@@ javascript
 	result = 3 + 3;
 
 !SLIDE execute
