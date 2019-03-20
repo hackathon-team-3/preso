@@ -2,7 +2,7 @@
 
 # Hackathon Team 3 
 
-## Classroom Training Deployments                  ![dogfood](eatingourdogfood.png)
+## Classroom Training Deployments                 
 
 ### Team Members
 
@@ -94,5 +94,8 @@ This is a presenter note example. I have no idea what I'm doing
 ### * Ambassador Ingress leveraging Consul Connect Integration
 
 ### * Finish automating entire deployment with TF 0.12
+
+
+![dogfood](eatingourdogfood.png)
 
 
