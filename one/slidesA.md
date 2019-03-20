@@ -42,7 +42,7 @@ The training solution will have a frontend student sign-up and will integrate wi
 ### * Creates a list that feeds Terraform
 ### * Terraform provisions Showoff Pod and Student Pod via Helm
 
-## HashiStack Products Used
+## HashiStack Products 
 ### * Terraform 11.3 ENT (intended to use 0.12)
 ### * Vault Container ENT
 ### * Consul Helm (Health Checks on Student Pods)
