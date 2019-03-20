@@ -1,6 +1,6 @@
 <!SLIDE title-slide>
 
-# Hackathon Team 3          ![diagram] (eatingourdogfood.gif)
+# Hackathon Team 3 
 
 ## Classroom Training Deployments
 
