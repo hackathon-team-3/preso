@@ -73,7 +73,7 @@ This is a presenter note example. I have no idea what I'm doing
 ~~~ENDSECTION~~~
 
 <!SLIDE >
-# Things to Add
+# Nice to Haves:
 
 ## Consul Connect from Wetty Pod to VM
 ## Front-end - possibly Google Suite Sign-in Sheet with API integration to Terraform
