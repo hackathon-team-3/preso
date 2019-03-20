@@ -57,6 +57,7 @@ This is a presenter note example. I have no idea what I'm doing
 <!SLIDE bullets>
 # Third Slide
 
+@@@ javascript
 graph TD
 A[Christmas] -->|Get money| B(Go shopping)
 B --> C{Let me think}
